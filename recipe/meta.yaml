@@ -30,7 +30,6 @@ requirements:
     - seaborn
     - fastapi
     - send2trash
-    - pywebview
 
 test:
   imports:
